@@ -1,0 +1,16 @@
+.sticker-picker-image {
+    padding: 0px 5px;
+    cursor: pointer;
+}
+
+.sticker-picker {
+    text-align: center;
+    margin: 10px 0px;
+}
+
+.sticker-picker-image-active {
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 100%;
+    box-shadow: 1px 2px 9px #909696;
+}
